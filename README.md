@@ -22,6 +22,6 @@ Currently, two official plugins are available:
 
 ## Screenshots
 
-![#1](/Frontend/images/Screenshot from 2024-03-31 21-55-44.png)
+![#1](Frontend/images/Screenshot from 2024-03-31 21-55-44.png)
 ![#2](/Frontend/images/Screenshot from 2024-03-31 21-58-12.png)
 ![#3](/Frontend/images/Screenshot from 2024-03-31 21-58-18.png)
