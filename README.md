@@ -1,7 +1,5 @@
-@@ -1,7 +1,22 @@
 # Transportion-service
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Transportion-service is a web application developed using React.js for managing Transportion timings.
 
 Currently, two official plugins are available:
